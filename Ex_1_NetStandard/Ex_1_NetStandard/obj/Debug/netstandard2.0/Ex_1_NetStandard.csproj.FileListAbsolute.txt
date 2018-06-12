@@ -1,0 +1,9 @@
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\bin\Debug\netstandard2.0\Ex_1_NetStandard.deps.json
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\bin\Debug\netstandard2.0\Ex_1_NetStandard.dll
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\bin\Debug\netstandard2.0\Ex_1_NetStandard.pdb
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\obj\Debug\netstandard2.0\Ex_1_NetStandard.csprojAssemblyReference.cache
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\obj\Debug\netstandard2.0\Ex_1_NetStandard.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\obj\Debug\netstandard2.0\Ex_1_NetStandard.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\obj\Debug\netstandard2.0\Ex_1_NetStandard.AssemblyInfo.cs
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\obj\Debug\netstandard2.0\Ex_1_NetStandard.dll
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetStandard\obj\Debug\netstandard2.0\Ex_1_NetStandard.pdb

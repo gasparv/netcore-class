@@ -1,0 +1,14 @@
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.deps.json
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.runtimeconfig.json
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.runtimeconfig.dev.json
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.dll
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.pdb
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetStandard.dll
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\bin\Debug\netcoreapp2.0\Ex_1_NetStandard.pdb
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.csprojAssemblyReference.cache
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.AssemblyInfo.cs
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.csproj.CopyComplete
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.dll
+E:\SKOLENIE .NET\Ex_1_NetStandard\Ex_1_NetCoreConsole\obj\Debug\netcoreapp2.0\Ex_1_NetCoreConsole.pdb
