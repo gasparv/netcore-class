@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\bin\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.deps.json
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\bin\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\bin\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\bin\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.dll
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\obj\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\obj\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\obj\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\obj\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\bin\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.pdb
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\obj\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.dll
+E:\SKOLENIE .NET TEMP\Ex_3_KestrelWebHost\obj\Debug\netcoreapp2.1\Ex_3_KestrelWebHost.pdb
