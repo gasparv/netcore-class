@@ -1,0 +1,14 @@
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.deps.json
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.dll
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.pdb
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjectionServices.dll
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\bin\Debug\netcoreapp2.1\Ex_2_2_DependencyInjectionServices.pdb
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.csproj.CopyComplete
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.dll
+E:\SKOLENIE .NET TEMP\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjection\obj\Debug\netcoreapp2.1\Ex_2_2_DependencyInjection.pdb
