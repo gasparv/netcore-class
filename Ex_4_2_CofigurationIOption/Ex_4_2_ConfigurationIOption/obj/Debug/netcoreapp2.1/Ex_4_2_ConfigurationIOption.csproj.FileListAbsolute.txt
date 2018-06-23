@@ -1,0 +1,63 @@
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.csproj.CoreCompileInputs.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorAssemblyInfo.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorAssemblyInfo.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.AssemblyInfoInputs.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.AssemblyInfo.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.TagHelpers.input.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.TagHelpers.output.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorCoreGenerate.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorTargetAssemblyInfo.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorTargetAssemblyInfo.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.pdb
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.deps.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.runtimeconfig.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.runtimeconfig.dev.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.pdb
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.Views.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.Views.pdb
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.Views.pdb
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\ProjektX\ProjektX\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.csproj.CopyComplete
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.deps.json
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.runtimeconfig.json
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.runtimeconfig.dev.json
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.dll
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.pdb
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.Views.dll
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\bin\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.Views.pdb
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.csprojAssemblyReference.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorAssemblyInfo.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorAssemblyInfo.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.AssemblyInfo.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.TagHelpers.input.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.TagHelpers.output.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorCoreGenerate.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorTargetAssemblyInfo.cache
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.RazorTargetAssemblyInfo.cs
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.Views.pdb
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.dll
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.pdb
+E:\SKOLENIE .NET\Ex_4_2_CofigurationIOption\Ex_4_2_ConfigurationIOption\obj\Debug\netcoreapp2.1\Ex_4_2_ConfigurationIOption.csproj.CopyComplete
