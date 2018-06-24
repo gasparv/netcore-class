@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\bin\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.deps.json
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\bin\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\bin\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\bin\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.dll
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\bin\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.pdb
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\obj\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\obj\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\obj\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\obj\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\obj\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.dll
+E:\SKOLENIE .NET TEMP\Ex_4_1_IConfiguration\Ex_4_1_IConfiguration\obj\Debug\netcoreapp2.0\Ex_4_1_IConfiguration.pdb
