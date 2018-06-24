@@ -1,0 +1,11 @@
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\bin\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.deps.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\bin\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.runtimeconfig.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\bin\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.runtimeconfig.dev.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\bin\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\bin\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.pdb
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\obj\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.csprojAssemblyReference.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\obj\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\obj\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.AssemblyInfoInputs.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\obj\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.AssemblyInfo.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\obj\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_6_HostingEnvironment\Ex_6_HostingEnvironment\obj\Debug\netcoreapp2.0\Ex_6_HostingEnvironment.pdb
