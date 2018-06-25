@@ -1,0 +1,10 @@
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\bin\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.deps.json
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\bin\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\bin\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\bin\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.dll
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\bin\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.pdb
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\obj\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\obj\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\obj\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\obj\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.dll
+E:\SKOLENIE .NET TEMP\Ex_7_2_ClassMiddleware\Ex_7_2_ClassMiddleware\obj\Debug\netcoreapp2.0\Ex_7_2_ClassMiddleware.pdb
