@@ -1,0 +1,10 @@
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\bin\Debug\netcoreapp2.0\Ex_8_BundlingMinification.deps.json
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\bin\Debug\netcoreapp2.0\Ex_8_BundlingMinification.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\bin\Debug\netcoreapp2.0\Ex_8_BundlingMinification.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\bin\Debug\netcoreapp2.0\Ex_8_BundlingMinification.dll
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\obj\Debug\netcoreapp2.0\Ex_8_BundlingMinification.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\obj\Debug\netcoreapp2.0\Ex_8_BundlingMinification.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\obj\Debug\netcoreapp2.0\Ex_8_BundlingMinification.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\bin\Debug\netcoreapp2.0\Ex_8_BundlingMinification.pdb
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\obj\Debug\netcoreapp2.0\Ex_8_BundlingMinification.dll
+E:\SKOLENIE .NET TEMP\Ex_8_BundlingMinification\Ex_8_BundlingMinification\obj\Debug\netcoreapp2.0\Ex_8_BundlingMinification.pdb
