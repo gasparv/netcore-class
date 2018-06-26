@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\bin\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.deps.json
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\bin\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\bin\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\bin\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.dll
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\bin\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.pdb
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\obj\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\obj\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\obj\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\obj\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\obj\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.dll
+E:\SKOLENIE .NET TEMP\Ex_10_DefaultTagHelpers\Ex_10_DefaultTagHelpers\obj\Debug\netcoreapp2.0\Ex_10_DefaultTagHelpers.pdb

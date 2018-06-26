@@ -1,0 +1,38 @@
+﻿@model DemonstrationTagHelperViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<br /><br />
+<a asp-controller="Home" asp-action="Contact" asp-route-contactname="Janci">Open contact page</a>
+<environment names="Development">
+    This is the development version of the application
+</environment>
+<environment include="Production" exclude="Development">
+    This is the production version of the application
+</environment>
+<br /><br />
+@*Simple submission form with the form tag helper and asp-controller and asp-action tag helper attributes*@
+Form created with razor helper
+      <form method="post" asp-controller="Home" asp-action="Index">
+          <input type="text" name="data" placeholder="Classic HTML tag without asp helpers" class="form-control" />
+          <div asp-validation-summary="ModelOnly"></div>
+          <div class="form-group">
+              <label asp-for="StringValue" class="label label-info"></label>
+              <span asp-validation-for="StringValue"></span>
+              <input asp-for="StringValue" placeholder="TagHelper bound to Model.StringValue parameter" class="form-control" />
+          </div>
+          <div class="form-group">
+              <label asp-for="IntegerValue" class="label label-danger"></label>
+              <input asp-for="IntegerValue" value="" placeholder="TagHelper bound to Model.IntegerValue parameter" type="number" class="form-control" /> <br />
+          </div>
+          <select asp-items="Model?.ListCollection" class="form-control">
+              <option value="-1">Select an option</option>
+          </select>
+          <br />
+          <button type="submit" class="btn btn-sm btn-primary">Submit</button>
+      </form>
+@*
+    Possible only in ASP.NET Core 2.1 and renders asynchronously
+    <partial name="RazorPartial" for="Model" />
+*@
+
