@@ -1,0 +1,11 @@
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\bin\Debug\netcoreapp2.0\Ex_9_RazorDirectives.deps.json
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\bin\Debug\netcoreapp2.0\Ex_9_RazorDirectives.runtimeconfig.json
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\bin\Debug\netcoreapp2.0\Ex_9_RazorDirectives.runtimeconfig.dev.json
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\bin\Debug\netcoreapp2.0\Ex_9_RazorDirectives.dll
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\bin\Debug\netcoreapp2.0\Ex_9_RazorDirectives.pdb
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\obj\Debug\netcoreapp2.0\Ex_9_RazorDirectives.csprojAssemblyReference.cache
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\obj\Debug\netcoreapp2.0\Ex_9_RazorDirectives.csproj.CoreCompileInputs.cache
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\obj\Debug\netcoreapp2.0\Ex_9_RazorDirectives.AssemblyInfoInputs.cache
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\obj\Debug\netcoreapp2.0\Ex_9_RazorDirectives.AssemblyInfo.cs
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\obj\Debug\netcoreapp2.0\Ex_9_RazorDirectives.dll
+C:\Users\Gaspar\Source\Repos\Ex_9_RazorDirectives\Ex_9_RazorDirectives\obj\Debug\netcoreapp2.0\Ex_9_RazorDirectives.pdb
