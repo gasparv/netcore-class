@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaspar\\Source\\Repos\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives.csproj",
+      "projectUniqueName": "E:\\SKOLENIE .NET\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives.csproj",
       "projectName": "Ex_9_RazorDirectives",
-      "projectPath": "C:\\Users\\Gaspar\\Source\\Repos\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives.csproj",
+      "projectPath": "E:\\SKOLENIE .NET\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives.csproj",
       "packagesPath": "C:\\Users\\Gaspar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaspar\\Source\\Repos\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives\\obj\\",
+      "outputPath": "E:\\SKOLENIE .NET\\Ex_9_RazorDirectives\\Ex_9_RazorDirectives\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

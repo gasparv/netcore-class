@@ -20,14 +20,14 @@ namespace Ex_9_RazorDirectives
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            //Registration of the custom service
             services.AddSingleton<ICurrentDateTimeFormatter, CurrentDateTime>();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())

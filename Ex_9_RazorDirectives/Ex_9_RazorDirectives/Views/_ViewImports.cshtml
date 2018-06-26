@@ -1,5 +1,10 @@
+
+@*Addition of the using statement allows us to reference the ICurrentDateTimeFormatter from the Ex_9_RazorDirectives.Services.Definitions namespace - otherwise the whole path would be necessary*@
 @using Ex_9_RazorDirectives.Services.Definitions
+
+@*Uses Dependency injection to inject the specified service in the view*@
 @inject ICurrentDateTimeFormatter DTF
+
 @using Ex_9_RazorDirectives
 @using Ex_9_RazorDirectives.Models
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
