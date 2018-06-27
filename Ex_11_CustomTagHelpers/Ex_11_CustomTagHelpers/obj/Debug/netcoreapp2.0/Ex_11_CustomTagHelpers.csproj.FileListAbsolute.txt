@@ -1,0 +1,10 @@
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\obj\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\obj\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\obj\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\bin\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.deps.json
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\bin\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\bin\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\bin\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.dll
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\bin\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.pdb
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\obj\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.dll
+E:\SKOLENIE .NET TEMP\Ex_11_CustomTagHelpers\Ex_11_CustomTagHelpers\obj\Debug\netcoreapp2.0\Ex_11_CustomTagHelpers.pdb
