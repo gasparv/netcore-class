@@ -13,17 +13,21 @@ namespace Ex_13_ControllersAndApi.Services.Implementations
             new Coffee(){Id=1,Name="Antuka coffee",PlantingOrigin="Slovakia"},
             new Coffee(){Id=2,Name="Borat coffee",PlantingOrigin="Kazakhstan"}
         };
-        public Beverage GetBeverage(int Id)
+        public Beverage SingleById(int Id)
         {
             return ListOfCoffees.FirstOrDefault(x => x.Id == Id);  
         }
 
-        public Beverage GetBeverage(string name)
+        public Beverage SingleByName(string name)
         {
             return ListOfCoffees.FirstOrDefault(x => x.Name == name);
         }
 
-        public IEnumerable<Beverage> GetBeverages()
+        public IEnumerable<Beverage> FindByName(string name)
+        {
+            return ListOfCoffees.Where(x => x.Name.Contains(name));
+        }
+        public IEnumerable<Beverage> All()
         {
             return ListOfCoffees;
         }

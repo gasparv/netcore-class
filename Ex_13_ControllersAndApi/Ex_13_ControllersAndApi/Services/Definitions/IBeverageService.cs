@@ -8,9 +8,10 @@ namespace Ex_13_ControllersAndApi.Services.Definitions
 {
    public interface IBeverageService
     {
-        IEnumerable<Beverage> GetBeverages();
-        Beverage GetBeverage(int Id);
-        Beverage GetBeverage(string name);
+        IEnumerable<Beverage> All();
+        Beverage SingleById(int Id);
+        Beverage SingleByName(string name);
+        IEnumerable<Beverage> FindByName(string name);
 
     }
 }

@@ -23,22 +23,41 @@ namespace Ex_13_ControllersAndApi.Controllers
         public IActionResult Get()
         {
             //Returns all coffees inside the collection
-            return Ok(_coffeeService.GetBeverages());
+            return Ok(_coffeeService.All());
         }
 
         // GET: api/Coffee/5
 
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
             //Returns status code 200 with coffee retrieved from a service - notice the separation of concerns. The controller does not care about the logic behind retrieving the data
-            return Ok(_coffeeService.GetBeverage(id));
+            return Ok(_coffeeService.SingleById(id));
             //Presents the possibility to return various status codes with any wanted data
            // return StatusCode(StatusCodes.Status418ImATeapot,new Coffee() { Id=1, Name="OOlong tee - not coffee :(",PlantingOrigin="Slovakia"});
         }
-        
+
+        [HttpGet("[action]")]
+        public IActionResult SingleByName([FromQuery]string name)
+        {
+            //Returns status code 200 with coffee retrieved from a service - notice the separation of concerns. The controller does not care about the logic behind retrieving the data
+            return Ok(_coffeeService.SingleByName(name));
+            //Presents the possibility to return various status codes with any wanted data
+            // return StatusCode(StatusCodes.Status418ImATeapot,new Coffee() { Id=1, Name="OOlong tee - not coffee :(",PlantingOrigin="Slovakia"});
+        }
+
+        [HttpGet("[action]")]
+        public IActionResult FindByName([FromQuery]string name)
+        {
+            //Returns status code 200 with coffee retrieved from a service - notice the separation of concerns. The controller does not care about the logic behind retrieving the data
+            return Ok(_coffeeService.FindByName(name));
+            //Presents the possibility to return various status codes with any wanted data
+            // return StatusCode(StatusCodes.Status418ImATeapot,new Coffee() { Id=1, Name="OOlong tee - not coffee :(",PlantingOrigin="Slovakia"});
+        }
+
         // POST: api/Coffee
         [HttpPost]
+        
         public void Post([FromBody]string value)
         {
         }
