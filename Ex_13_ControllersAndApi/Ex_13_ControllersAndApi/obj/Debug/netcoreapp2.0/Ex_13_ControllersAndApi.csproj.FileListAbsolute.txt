@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\bin\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.deps.json
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\bin\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\bin\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\bin\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.dll
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\obj\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\obj\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\obj\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\obj\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\bin\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.pdb
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\obj\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.dll
+E:\SKOLENIE .NET TEMP\Ex_13_ControllersAndApi\Ex_13_ControllersAndApi\obj\Debug\netcoreapp2.0\Ex_13_ControllersAndApi.pdb

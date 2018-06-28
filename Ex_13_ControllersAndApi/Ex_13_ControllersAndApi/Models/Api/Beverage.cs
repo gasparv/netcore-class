@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Ex_13_ControllersAndApi.Models.Api
+{
+    public abstract class Beverage
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}
