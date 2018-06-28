@@ -1,0 +1,10 @@
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\bin\Debug\netcoreapp2.0\Ex_12_ViewComponents.deps.json
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\bin\Debug\netcoreapp2.0\Ex_12_ViewComponents.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\bin\Debug\netcoreapp2.0\Ex_12_ViewComponents.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\bin\Debug\netcoreapp2.0\Ex_12_ViewComponents.dll
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\bin\Debug\netcoreapp2.0\Ex_12_ViewComponents.pdb
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\obj\Debug\netcoreapp2.0\Ex_12_ViewComponents.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\obj\Debug\netcoreapp2.0\Ex_12_ViewComponents.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\obj\Debug\netcoreapp2.0\Ex_12_ViewComponents.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\obj\Debug\netcoreapp2.0\Ex_12_ViewComponents.dll
+E:\SKOLENIE .NET TEMP\Ex_12_ViewComponents\Ex_12_ViewComponents\obj\Debug\netcoreapp2.0\Ex_12_ViewComponents.pdb
