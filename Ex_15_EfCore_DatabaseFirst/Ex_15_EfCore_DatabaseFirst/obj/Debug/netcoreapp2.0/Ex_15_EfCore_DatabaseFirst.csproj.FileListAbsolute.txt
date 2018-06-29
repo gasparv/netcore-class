@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\bin\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.deps.json
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\bin\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\bin\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\bin\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.dll
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\bin\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.pdb
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\obj\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\obj\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\obj\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\obj\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\obj\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.dll
+E:\SKOLENIE .NET TEMP\Ex_15_EfCore_DatabaseFirst\Ex_15_EfCore_DatabaseFirst\obj\Debug\netcoreapp2.0\Ex_15_EfCore_DatabaseFirst.pdb

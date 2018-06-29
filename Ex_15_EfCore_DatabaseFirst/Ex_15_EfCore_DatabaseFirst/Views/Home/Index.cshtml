@@ -1,0 +1,26 @@
+﻿@using Ex_15_EfCore_DatabaseFirst.Models.DbModels
+@model IEnumerable<Coffee>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<br /><br />
+<div>
+    @{
+        if (Model != null)
+        {
+            if (Model.Any())
+            {
+                foreach (var coffee in Model)
+                {
+                    <div>@(coffee.Name + " is a type of " + coffee.Brand + " and is drank by:")</div>
+                    foreach (var drinker in coffee.EmployeeCoffee)
+                    {
+                        <div> - @(drinker.Employee.Name + " from " + drinker.Employee.Workplace)</div>
+
+                    }
+
+                }
+            }
+        }
+    }
+</div>
