@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Coffee>
+@using Ex_14_EfCore_CodeFirst.Data
+@inject CoffeeDbContextLite _dbLite
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+
+<br /><br />
+<p><b>This coffee information was retrieved from SQLite database</b></p>
+<br /><br />
+
+<div>
+    @{
+        if (Model != null)
+        {
+            if (Model.Any())
+            {
+                foreach (var coffee in Model)
+                {
+                    _dbLite.Entry(coffee).Collection(x => x.EmployeeCoffee).Load();
+
+                    <div>@(coffee.Name + " is a type of " + coffee.Brand + " and is drank by:")</div>
+                    foreach (var drinker in coffee.EmployeeCoffee)
+                    {
+                        _dbLite.Entry(drinker).Reference(a => a.Employee).Load();
+                        <div> - @(drinker.Employee.Name + " from " + drinker.Employee.Workplace)</div>
+
+                    }
+
+                }
+            }
+        }
+    }
+</div>

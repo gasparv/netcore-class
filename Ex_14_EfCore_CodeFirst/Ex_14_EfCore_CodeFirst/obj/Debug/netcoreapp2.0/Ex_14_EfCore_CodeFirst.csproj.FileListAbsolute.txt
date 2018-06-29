@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\bin\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.deps.json
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\bin\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\bin\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\bin\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.dll
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\bin\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.pdb
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\obj\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\obj\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\obj\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\obj\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\obj\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.dll
+E:\SKOLENIE .NET TEMP\Ex_14_EfCore_CodeFirst\Ex_14_EfCore_CodeFirst\obj\Debug\netcoreapp2.0\Ex_14_EfCore_CodeFirst.pdb
