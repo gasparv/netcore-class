@@ -1,0 +1,17 @@
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.deps.json
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.dll
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.pdb
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.csproj.CoreCompileInputs.cache
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.AssemblyInfoInputs.cache
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.AssemblyInfo.cs
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.dll
+E:\Ex_2_2_DependencyInjection\Ex_2_2_DependencyInjectionServices\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.pdb
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.deps.json
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.pdb
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.csprojAssemblyReference.cache
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.csproj.CoreCompileInputs.cache
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.AssemblyInfoInputs.cache
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.AssemblyInfo.cs
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Services\obj\Debug\netcoreapp2.1\Ex_17_xunit.Services.pdb

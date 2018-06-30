@@ -1,0 +1,17 @@
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Tests.deps.json
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Tests.runtimeconfig.json
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Tests.runtimeconfig.dev.json
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Tests.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Tests.pdb
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\bin\Debug\netcoreapp2.1\Ex_17_xunit.Services.pdb
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.csprojAssemblyReference.cache
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.csproj.CoreCompileInputs.cache
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.AssemblyInfoInputs.cache
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.AssemblyInfo.cs
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.csproj.CopyComplete
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.dll
+E:\Ex_2_2_DependencyInjection\Ex_17_xunit.Tests\obj\Debug\netcoreapp2.1\Ex_17_xunit.Tests.pdb
