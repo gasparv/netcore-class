@@ -1,0 +1,11 @@
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\bin\Debug\netcoreapp2.0\Ex_18_DockerApp.deps.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\bin\Debug\netcoreapp2.0\Ex_18_DockerApp.runtimeconfig.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\bin\Debug\netcoreapp2.0\Ex_18_DockerApp.runtimeconfig.dev.json
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\bin\Debug\netcoreapp2.0\Ex_18_DockerApp.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\bin\Debug\netcoreapp2.0\Ex_18_DockerApp.pdb
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\obj\Debug\netcoreapp2.0\Ex_18_DockerApp.csprojAssemblyReference.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\obj\Debug\netcoreapp2.0\Ex_18_DockerApp.csproj.CoreCompileInputs.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\obj\Debug\netcoreapp2.0\Ex_18_DockerApp.AssemblyInfoInputs.cache
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\obj\Debug\netcoreapp2.0\Ex_18_DockerApp.AssemblyInfo.cs
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\obj\Debug\netcoreapp2.0\Ex_18_DockerApp.dll
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\Ex_18_DockerApp\obj\Debug\netcoreapp2.0\Ex_18_DockerApp.pdb

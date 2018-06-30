@@ -1,0 +1,1 @@
+C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

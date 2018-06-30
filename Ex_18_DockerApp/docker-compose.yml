@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  ex_18_dockerapp:
+    image: ${DOCKER_REGISTRY}ex18dockerapp
+    build:
+      context: .
+      dockerfile: Ex_18_DockerApp/Dockerfile
+    depends_on:
+     - db
+  db:
+    image: "microsoft/mssql-server-linux"
+    environment:
+      SA_PASSWORD: Str0ngPassword!
+      ACCEPT_EULA: Y

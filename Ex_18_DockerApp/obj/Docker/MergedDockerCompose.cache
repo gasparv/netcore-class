@@ -1,0 +1,18 @@
+services:
+  db:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Str0ngPassword!
+    image: microsoft/mssql-server-linux
+  ex_18_dockerapp:
+    build:
+      context: C:\Users\Gaspar\Documents\Visual Studio 2017\Projects\Ex_18_DockerApp
+      dockerfile: Ex_18_DockerApp/Dockerfile
+    depends_on:
+    - db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ex18dockerapp
+    ports:
+    - target: 80
+version: '3.4'

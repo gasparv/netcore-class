@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ex_18_dockerapp:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
