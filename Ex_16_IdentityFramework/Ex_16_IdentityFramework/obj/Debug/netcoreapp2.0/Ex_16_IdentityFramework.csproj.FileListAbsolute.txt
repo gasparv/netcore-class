@@ -1,0 +1,12 @@
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\bin\Debug\netcoreapp2.0\Ex_16_IdentityFramework.deps.json
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\bin\Debug\netcoreapp2.0\Ex_16_IdentityFramework.runtimeconfig.json
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\bin\Debug\netcoreapp2.0\Ex_16_IdentityFramework.runtimeconfig.dev.json
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\bin\Debug\netcoreapp2.0\Ex_16_IdentityFramework.dll
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\bin\Debug\netcoreapp2.0\Ex_16_IdentityFramework.pdb
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\Ex_16_IdentityFramework.csprojAssemblyReference.cache
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\Ex_16_IdentityFramework.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\Ex_16_IdentityFramework.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\Ex_16_IdentityFramework.AssemblyInfo.cs
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\Ex_16_IdentityFramework.dll
+E:\SKOLENIE .NET TEMP\Ex_16_IdentityFramework\Ex_16_IdentityFramework\obj\Debug\netcoreapp2.0\Ex_16_IdentityFramework.pdb

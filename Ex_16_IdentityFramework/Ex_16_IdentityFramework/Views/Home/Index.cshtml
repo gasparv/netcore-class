@@ -1,0 +1,16 @@
+﻿@using Ex_16_IdentityFramework.Extensions
+@inject UserManager<ApplicationUser> _userManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<br /><br />
+Role from User.IsInRole method
+<br />
+@(User.IsInRole("User")?"User":"NotUser")
+<br /><br />
+ID from extension method FindByWorkplace over UserManager
+<br />
+@((await _userManager.FindByWorkplace("Pohronská polhora")).FirstOrDefault(x=>x.UserName == User.Identity.Name)?.Id)
+<br />
