@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Ex_Ad_6_2_KestrelCustomization/Ex_Ad_6_2_KestrelCustomization.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
