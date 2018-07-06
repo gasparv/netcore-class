@@ -1,0 +1,11 @@
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\bin\Production\netcoreapp2.1\Ex_3_1_GenericHost.deps.json
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\bin\Production\netcoreapp2.1\Ex_3_1_GenericHost.runtimeconfig.json
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\bin\Production\netcoreapp2.1\Ex_3_1_GenericHost.runtimeconfig.dev.json
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\bin\Production\netcoreapp2.1\Ex_3_1_GenericHost.dll
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\bin\Production\netcoreapp2.1\Ex_3_1_GenericHost.pdb
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\obj\Production\netcoreapp2.1\Ex_3_1_GenericHost.csprojAssemblyReference.cache
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\obj\Production\netcoreapp2.1\Ex_3_1_GenericHost.csproj.CoreCompileInputs.cache
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\obj\Production\netcoreapp2.1\Ex_3_1_GenericHost.AssemblyInfoInputs.cache
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\obj\Production\netcoreapp2.1\Ex_3_1_GenericHost.AssemblyInfo.cs
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\obj\Production\netcoreapp2.1\Ex_3_1_GenericHost.dll
+E:\SKOLENIE .NET-Pridane\Ex_3_1_GenericHost\Ex_3_1_GenericHost\obj\Production\netcoreapp2.1\Ex_3_1_GenericHost.pdb
