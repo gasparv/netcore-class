@@ -31,5 +31,11 @@ This repo contains projects and solutions provided as examples to explain variou
 ## Advanced concepts and detailed explanation of topics new in .NET Core
 - Ex_Ad_6_1_GenericHost - provides various configuration aspects for a non-HTTP host that is used with a HostedService pattern
 - Ex_Ad_6_2_KestrelCustomization - provides implementation of storing secrets during development, configuration of a windows HTTP.sys server, implementation of a custom server / http listener hooked on a local folder
+- Ex_Ad_11_1_TH_ModelExpressionsAndCoordination - Using context in taghelpers to pass data between classes (coordination) and using ModelExpressions to bind model or its elements to taghelper properties
 
+## Expected additions in the future:
+- Ex_13_1_Conventions - Customizing scaffolding -> controller, action and parameter discovery in .NET Core MVC
+- Ex_18_1_Docker_Orchestration - Creating in app relations between containers using docker-compose and shared network
+- Ex_18_2_Docker_Microservices - Deployment of multiple app modules in separate docker containers
+- Ex_19_DDD_Architecture - Example app with Domain driven development architecture including microservices and possible docker container deployment
 # GLHF ... :)
