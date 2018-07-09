@@ -1,0 +1,41 @@
+2018-07-09 21:19:15.601 +02:00 [Information] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: User profile is available. Using 'C:\Users\Gaspar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-07-09 21:19:16.129 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/  
+2018-07-09 21:19:16.131 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 DEBUG http://localhost:2401/  0
+2018-07-09 21:19:16.169 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 38.6902ms 200 
+2018-07-09 21:19:16.325 +02:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Route matched with {action = "Index", controller = "Home"}. Executing action Ex_Ad_6_3_LoggingProviderFile.Controllers.HomeController.Index (Ex_Ad_6_3_LoggingProviderFile)
+2018-07-09 21:19:16.403 +02:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executing action method Ex_Ad_6_3_LoggingProviderFile.Controllers.HomeController.Index (Ex_Ad_6_3_LoggingProviderFile) - Validation state: Valid
+2018-07-09 21:19:16.407 +02:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executed action method Ex_Ad_6_3_LoggingProviderFile.Controllers.HomeController.Index (Ex_Ad_6_3_LoggingProviderFile), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7296ms.
+2018-07-09 21:19:16.435 +02:00 [Information] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Executing ViewResult, running view Index.
+2018-07-09 21:19:16.549 +02:00 [Information] Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor: Executed ViewResult - view Index executed in 134.218ms.
+2018-07-09 21:19:16.552 +02:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executed action Ex_Ad_6_3_LoggingProviderFile.Controllers.HomeController.Index (Ex_Ad_6_3_LoggingProviderFile) in 225.2127ms
+2018-07-09 21:19:16.562 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 431.7832ms 200 text/html; charset=utf-8
+2018-07-09 21:19:16.584 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/images/banner2.svg  
+2018-07-09 21:19:16.589 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/lib/bootstrap/dist/css/bootstrap.css  
+2018-07-09 21:19:16.593 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/css/site.css  
+2018-07-09 21:19:16.596 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/images/banner1.svg  
+2018-07-09 21:19:16.607 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/css/site.css'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\css\site.css'
+2018-07-09 21:19:16.620 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 18.1958ms 200 text/css
+2018-07-09 21:19:16.622 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/images/banner2.svg'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\images\banner2.svg'
+2018-07-09 21:19:16.625 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 50.5776ms 200 image/svg+xml
+2018-07-09 21:19:16.637 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/images/banner1.svg'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\images\banner1.svg'
+2018-07-09 21:19:16.642 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+2018-07-09 21:19:16.645 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 54.0941ms 200 image/svg+xml
+2018-07-09 21:19:16.648 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 72.4295ms 200 text/css
+2018-07-09 21:19:16.943 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/lib/jquery/dist/jquery.js  
+2018-07-09 21:19:16.945 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/lib/bootstrap/dist/js/bootstrap.js  
+2018-07-09 21:19:16.946 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2018-07-09 21:19:16.949 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/images/banner3.svg  
+2018-07-09 21:19:16.955 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/js/site.js'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\js\site.js'
+2018-07-09 21:19:16.970 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 10.5846ms 200 application/javascript
+2018-07-09 21:19:16.974 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/images/banner3.svg'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\images\banner3.svg'
+2018-07-09 21:19:16.979 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+2018-07-09 21:19:16.981 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\lib\jquery\dist\jquery.js'
+2018-07-09 21:19:16.982 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 32.1277ms 200 image/svg+xml
+2018-07-09 21:19:16.984 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 41.1798ms 200 application/javascript
+2018-07-09 21:19:16.991 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 37.6157ms 200 application/javascript
+2018-07-09 21:19:17.040 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2  
+2018-07-09 21:19:17.043 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2'
+2018-07-09 21:19:17.046 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 4.9702ms 200 font/woff2
+2018-07-09 21:19:17.298 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/1.1 GET http://localhost:44372/favicon.ico  
+2018-07-09 21:19:17.300 +02:00 [Information] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Sending file. Request path: '/favicon.ico'. Physical path: 'E:\SKOLENIE .NET TEMP\Ex_Ad_6_3_LoggingProviderFile\Ex_Ad_6_3_LoggingProviderFile\wwwroot\favicon.ico'
+2018-07-09 21:19:17.303 +02:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 4.8371ms 200 image/x-icon
