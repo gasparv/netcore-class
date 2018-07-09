@@ -1,0 +1,18 @@
+services:
+  apiservice:
+    build:
+      context: E:\SKOLENIE .NET TEMP\Ex_Ad_18_1_DockerServices
+      dockerfile: ApiServices/Dockerfile
+    image: webapiservice
+  ex_ad_18_1_dockerservices:
+    build:
+      context: E:\SKOLENIE .NET TEMP\Ex_Ad_18_1_DockerServices
+      dockerfile: Ex_Ad_18_1_DockerServices/Dockerfile
+    depends_on:
+    - apiservice
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: exad181dockerservices
+    ports:
+    - target: 80
+version: '3.4'

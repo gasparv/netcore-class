@@ -1,0 +1,39 @@
+version: '3.4'
+
+services:
+  apiservice:
+    image: webapiservice:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_apiservice$
+    volumes:
+      - E:\SKOLENIE .NET TEMP\Ex_Ad_18_1_DockerServices\ApiServices:/app
+      - C:\Users\Gaspar\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_apiservice$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_apiservice$ bin/Debug/netcoreapp2.0/ApiServices.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+  ex_ad_18_1_dockerservices:
+    image: exad181dockerservices:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_ex_ad_18_1_dockerservices$
+    volumes:
+      - E:\SKOLENIE .NET TEMP\Ex_Ad_18_1_DockerServices\Ex_Ad_18_1_DockerServices:/app
+      - C:\Users\Gaspar\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_ex_ad_18_1_dockerservices$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_ex_ad_18_1_dockerservices$ bin/Debug/netcoreapp2.0/Ex_Ad_18_1_DockerServices.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+

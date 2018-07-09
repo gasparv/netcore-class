@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  ex_ad_18_1_dockerservices:
+    image: ${DOCKER_REGISTRY}exad181dockerservices
+    build:
+      context: .
+      dockerfile: Ex_Ad_18_1_DockerServices/Dockerfile
+    depends_on:
+    - apiservice
+  apiservice:
+    image: ${DOCKER_REGISTRY}webapiservice
+    build:
+      context: .
+      dockerfile: ApiServices/Dockerfile
