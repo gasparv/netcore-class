@@ -1,0 +1,8 @@
+﻿@model IEnumerable<DrinkCoffeesCountView>
+<br /><br />
+
+@foreach(DrinkCoffeesCountView coffes in Model)
+{
+    <div> @("Employee with ID " + coffes.EmployeeId + " drinks " + coffes.CoffeeCount + " types of coffee")</div>
+
+}

@@ -1,0 +1,7 @@
+﻿@model ICollection<Employee>
+
+@foreach(Employee employee in Model)
+{
+    <div>@(employee.Name + " works at " + employee.Workplace)</div>
+
+}

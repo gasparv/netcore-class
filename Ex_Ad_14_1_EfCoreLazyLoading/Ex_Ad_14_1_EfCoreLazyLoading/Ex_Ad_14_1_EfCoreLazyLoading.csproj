@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180711181242_initial.cs" />
+    <Compile Remove="Migrations\20180711181242_initial.Designer.cs" />
+    <Compile Remove="Migrations\20180711182601_init.cs" />
+    <Compile Remove="Migrations\20180711182601_init.Designer.cs" />
+    <Compile Remove="Migrations\20180711182639_init.cs" />
+    <Compile Remove="Migrations\20180711182639_init.Designer.cs" />
+    <Compile Remove="Migrations\20180711182844_Procedure_CoffeeByCode.cs" />
+    <Compile Remove="Migrations\20180711182844_Procedure_CoffeeByCode.Designer.cs" />
+    <Compile Remove="Migrations\20180711195938_view_init.cs" />
+    <Compile Remove="Migrations\20180711195938_view_init.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="Microsoft.NETCore.App" Version="2.1.0" />
+  </ItemGroup>
+
+</Project>

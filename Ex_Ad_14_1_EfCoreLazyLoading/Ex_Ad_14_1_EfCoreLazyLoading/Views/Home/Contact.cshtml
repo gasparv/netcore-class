@@ -1,0 +1,11 @@
+﻿@model ICollection<Coffee>
+<br /><br />
+@foreach (Coffee coffee in Model)
+{
+    <div>@(coffee.Name + " from " + coffee.Origin )</div>
+    foreach (EmployeeCoffee drankBy in coffee.EmployeeCoffee)
+    {
+        <div>@("Is drank by " + drankBy.Employee.Name + " who works at " + drankBy.Employee.Workplace)</div>
+
+    }
+}

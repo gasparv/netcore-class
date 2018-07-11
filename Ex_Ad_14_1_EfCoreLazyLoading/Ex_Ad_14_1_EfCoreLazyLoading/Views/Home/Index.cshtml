@@ -1,0 +1,6 @@
+﻿@model ICollection<Coffee>
+<br /><br />
+@foreach (Coffee coffee in Model)
+{
+    <div>@(coffee.Name + " from " + coffee.Origin )</div>
+}
